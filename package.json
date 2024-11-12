@@ -1,0 +1,19 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Initial setup for browser cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/InKvIzItOrE/cv.git"
+  },
+  "author": "heorhii kolesnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InKvIzItOrE/cv/issues"
+  },
+  "homepage": "https://github.com/InKvIzItOrE/cv#readme"
+}
