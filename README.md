@@ -1,2 +1,2 @@
 # cv
-cv
+Initial setup for browser cv
